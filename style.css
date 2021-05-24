@@ -1,0 +1,20 @@
+body 
+{
+  text-align:center;
+  background:#0eedd7;
+}
+
+img 
+{
+  border-radius:50px
+    width:100px
+}
+h1{
+  text-shadow:2px 2px #de10da
+}
+
+p{
+  font-size:18px;
+  color:#2a21d9;
+}
+ 
